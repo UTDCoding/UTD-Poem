@@ -1,12 +1,13 @@
-The Rainbow:
+The Rainbow and Greenwood:
 
 Red
 Orange
 Yellow
 Green
+Greenwood
 Blue
 White
 Pink
 Violet
 
-These are the colours of the rainbow.
+These are the colours of the rainbow and Greenwood.
