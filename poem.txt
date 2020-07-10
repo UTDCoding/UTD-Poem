@@ -6,6 +6,7 @@ Yellow
 Green
 Blue
 White
+Pink
 Violet
 
 These are the colours of the rainbow.
